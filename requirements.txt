@@ -1,0 +1,10 @@
+streamlit==1.38.0
+numpy==2.2.2
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.14.1          # for linear_sum_assignment (label alignment); optional but recommended
+plotly==5.24.1         # 3D charts and heatmaps
+
+# If your repo also has the Bagging app with matplotlib/seaborn visuals:
+matplotlib==3.9.2
+seaborn==0.13.2
